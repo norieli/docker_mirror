@@ -14,11 +14,10 @@ mirror_prefix = "--registry-mirror="
 version = ""
 
 mirrors = {
-    "azure": "http://dockerhub.azk8s.cn",
     "tencent": "https://mirror.ccs.tencentyun.com",
     "netease": "http://hub-mirror.c.163.com",
     "ustc": "https://docker.mirrors.ustc.edu.cn",
-    "aliyun": "https://2h3po24q.mirror.aliyuncs.com"  # use your own aliyun mirror url instead.
+    "aliyun": "https://gmhgqm54.mirror.aliyuncs.com"  # use your own aliyun mirror url instead.
 }
 
 docker_config_map = {
